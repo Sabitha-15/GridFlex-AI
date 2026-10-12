@@ -4,3 +4,5 @@ scikit-learn
 xgboost
 pyarrow
 requests
+matplotlib
+python-dotenv
