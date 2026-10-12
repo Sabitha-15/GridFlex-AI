@@ -6,3 +6,4 @@ pyarrow
 requests
 matplotlib
 python-dotenv
+pytest
